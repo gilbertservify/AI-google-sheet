@@ -4,3 +4,5 @@ plotly
 gspread
 oauth2client
 googleapiclient
+google-api-python-client
+# Add any other libraries your Automation.py or other scripts use
